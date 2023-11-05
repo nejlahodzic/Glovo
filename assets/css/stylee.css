@@ -14,11 +14,14 @@
 }
 #hero header #header1{
     height: 15vh;
-    padding: 1rem 8rem;
+    padding: 1rem 7.5rem;
     display:flex;
     justify-content: space-between;
     align-items: center;
     color:#fff;
+}
+#hero header #header1 h1{
+    font-size: 2.5rem;
 }
 #hero header #header1 nav ul{
     display:flex;
